@@ -1,6 +1,6 @@
 /** @jsx h */
 
-import blog, {redirects, h} from "./blog.tsx";
+import blog, {h} from "./blog.tsx";
 
 blog({
     title: "alex's haikus",
