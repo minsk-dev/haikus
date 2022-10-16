@@ -6,7 +6,7 @@ blog({
     title: "alex's haikus",
     description: "haikus about tech and stuff",
     showHeaderOnPostPage: true,
-    avatar: "https://cdn.upload.systems/uploads/EWwItQHa.jpg",
+    avatar: "https://cdn.upload.systems/uploads/05VxMRfA.png",
     avatarClass: "rounded-full",
     author: "Alex",
     lang: "en",
