@@ -13,7 +13,7 @@ blog({
     links: [
         {
             title: "Email",
-            url: "mailto:haikus@alexaa.dev"
+            url: "mailto:alex@alexaa.dev"
         },
         {
             title: "GitHub",
